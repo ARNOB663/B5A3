@@ -1,5 +1,4 @@
-import { Request, Response } from "express";
-import express from "express";
+import express, { Request, Response } from "express";
 import { z } from "zod";
 import { Borrow } from "../models/borrow.model";
 import { Book } from "../models/book.model";
