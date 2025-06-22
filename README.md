@@ -192,24 +192,3 @@ The project uses strict TypeScript configuration with:
   quantity: number;
   dueDate: Date;
 }
-```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## License
-
-ISC License
-
-## Author
-
-[Your Name]
-
----
-
-For questions or support, please open an issue in the repository. 
